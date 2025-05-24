@@ -6,7 +6,11 @@ You will find herein the files related to our paper:
 
 ## Workflow
 
-![Graphical-Abstract](https://github.com/vktrannguyen/HERGAI/blob/main/hERGAI_Fig1.png)
+![Graphical-Abstract](https://github.com/vktrannguyen/HERGAI/blob/main/HERGAI_Computational_Workflow.png)
+
+## HERGAI architecture
+
+![Graphical-Abstract](https://github.com/vktrannguyen/HERGAI/blob/main/HERGAI_Diagram.png)
 
 ## Code
 
