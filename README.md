@@ -39,6 +39,7 @@ All data are stored in the **Data** folder. Inside, you will find:
   - The **Scores_All_poses** sub-folder: the csv files containing the scores issued by three existing scoring functions (Smina, RF-Score-VS, ClassyPose) for all docking poses of our test molecules.
   - The **Existing_SFs** sub-folder: the csv files containing all results from six virtual screening schemes involving existing scoring functions (Schemes 1-6, please read our article for more detail).
   - The **Our_AI_classifiers** sub-folder: the csv files containing all results from our six binary classifiers RF_BC, XGB_BC, DNN_BC, RF_SC, XGB_SC, and DNN_SC.
+  - The **CardioToxnet_AttenhERG** sub-folder: the csv file containing predictions by CardioTox net and AttenhERG on the full test set.
 
 ### The 'README.txt' file
 
