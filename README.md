@@ -1,8 +1,10 @@
 # HERGAI
 
-You will find herein the files related to our paper:
+You will find herein the files related to our *Journal of Cheminformatics* paper:
 
-**Tran-Nguyen, V.K., Randriharimanamizara, U.F., Taboureau, O. HERGAI: An Artificial Intelligence Tool for Structure-Based Prediction of hERG Inhibitors. (2025)**
+**Tran-Nguyen, VK., Randriharimanamizara, U.F. & Taboureau, O. HERGAI: an artificial intelligence tool for structure-based prediction of hERG inhibitors. J Cheminform 17, 110 (2025)**
+
+Full-text link: https://doi.org/10.1186/s13321-025-01063-8
 
 ## Workflow
 
