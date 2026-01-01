@@ -58,7 +58,7 @@ To use our code, you need to install **Python (v.3.7)** and set up a proper envi
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-This work was carried out at the Unité de Biologie Fonctionnelle et Adaptative (BFA), INSERM U1133, CNRS UMR8251, Université Paris Cité, France. The latest version of all data and source code provided herein was updated and made available free of charge in January 2025, and is subject to copyright.
+This work was carried out at the Unité de Biologie Fonctionnelle et Adaptative (BFA), INSERM ERL 1133, CNRS UMR 8251, Université Paris Cité, France. The latest version of all data and source code provided herein was updated and made available free of charge in January 2025, and is subject to copyright.
 
 
 
